@@ -17,11 +17,3 @@ When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature �
 - Program development using **Java** and **Python**
 - 
 
-
-<!--
-**tpaster/tpaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
