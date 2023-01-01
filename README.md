@@ -9,13 +9,13 @@ When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature �
 
 ## 🖥️ Projects
 * Stock Trading News Alert SMS
-(https://user-images.githubusercontent.com/120615847/210158338-0d1c6f53-1530-421d-b284-27f10e28943c.jpg)
+<img align='center' src='https://user-images.githubusercontent.com/120615847/210158338-0d1c6f53-1530-421d-b284-27f10e28943c.jpg' width='400"'>
 * Workout Tracking Using Google Sheets
 * Habit Tracking Program
 * GUI Quiz App
 * Animation
 * Menu Driven Account Program
-(https://user-images.githubusercontent.com/120615847/210158340-57cd1eaf-c32f-4dc8-8078-8980d9cd51d2.jpg)
+<img align='center' src='https://user-images.githubusercontent.com/120615847/210158340-57cd1eaf-c32f-4dc8-8078-8980d9cd51d2.jpg' width='400"'>
 
 ## ⚡ Technologies
 - Program development using **Java** and **Python**
