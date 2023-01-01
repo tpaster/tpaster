@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/120615847/210157973-82c38d60-311b-410f-8019-6796fca87741.jpg' width='150"'> 
 
 Hi, I'm Terra. I am a Master's student at ASU for Computer Science. Other than pursuing my degree I am an independent
-software engineer with various programs on display in my portfolio. 
+software engineer. 
 
 When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature 🌳, and globe-trotting 🌎.
 
