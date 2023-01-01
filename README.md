@@ -1,5 +1,3 @@
-# README.md
-
 <h2> Terra Pasternak <<i>Software Engineer</i>></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/120615847/210157973-82c38d60-311b-410f-8019-6796fca87741.jpg' width='150"'> 
