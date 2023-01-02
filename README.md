@@ -5,7 +5,7 @@
 Hi, I'm Terra. I am a Master's student at ASU for Computer Science. Other than pursuing my degree I am an independent
 software engineer with a love of programming. 
 
-When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature 🌳, and globe-trotting 🌎.
+When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature 🌳, and reading 📕.
 
 ## 🖥️ Projects
 * Stock Trading News Alert SMS
