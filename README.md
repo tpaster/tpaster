@@ -1,6 +1,6 @@
 <h2> Terra Pasternak <<i>Software Engineer</i>></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/120615847/210158191-56262296-8789-4980-beb7-9c4b8c9031ef.jpg' width='150"'> 
+<img align='right' src='https://user-images.githubusercontent.com/120615847/210188753-3fd2526f-9b81-43bc-8fec-00df78cea4d3.JPG' width='150"'> 
 
 Hi, I'm Terra. I am a Master's student at ASU for Computer Science. Other than pursuing my degree I am an independent
 software engineer with a love of programming. 
