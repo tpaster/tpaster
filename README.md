@@ -12,7 +12,7 @@ When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature �
 <img align='center' src='https://user-images.githubusercontent.com/120615847/210158338-0d1c6f53-1530-421d-b284-27f10e28943c.jpg' width='200"'>
 
 * Habit-Tracker [Github](https://github.com/tpaster/habit-tracker)
-<img align='center' src='https://user-images.githubusercontent.com/120615847/210158340-57cd1eaf-c32f-4dc8-8078-8980d9cd51d2.jpg' width='200"'>
+<img align='center' src='https://user-images.githubusercontent.com/120615847/211988148-422d4d5f-b15c-4cdb-9977-39cdf8ffba2c.jpg' width='200"'>
 
 ## ⚡ Technologies
 - Program development using **Java** and **Python**
