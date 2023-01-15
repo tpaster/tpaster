@@ -12,7 +12,7 @@ When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature �
 <img align='center' src='https://user-images.githubusercontent.com/120615847/211988148-422d4d5f-b15c-4cdb-9977-39cdf8ffba2c.jpg' width='200"'>
 
 * Animation [Github](https://github.com/tpaster/animation)
-<img align='center' src='https://user-images.githubusercontent.com/120615847/210158338-0d1c6f53-1530-421d-b284-27f10e28943c.jpg' width='200"'>
+<img align='center' src='https://user-images.githubusercontent.com/120615847/212502402-78f34679-043a-48ba-80af-6b2d2860b156.jpg' width='200"'>
 
 
 ## ⚡ Technologies
