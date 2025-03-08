@@ -1,6 +1,6 @@
 <h2> Terra Pasternak <<i>Software Engineer</i>></h2>
 
-<img align='right' src='https://github.com/tpaster/tpaster/blob/main/2025headshot6.jpeg?raw=true' width='150"'> 
+<img align='right' src='https://github.com/user-attachments/assets/09a1f047-1c85-430c-afd8-774efacb0073' width='150"'> 
 
 Hi, I'm Terra. I am a software engineer with a love of programming. 
 
