@@ -15,8 +15,8 @@ When I am not coding, I enjoy meditating 🧘‍♀️, spending time in nature 
 
 
 ## ⚡ Technologies
-- Program development using **Java** and **Python**
-- Front-end web development using **Javascript, HTML, CSS**
+- Program development using **Java** and **Python** 
+- Front-end web development using **Javascript, TypeScript, Ruby, HTML, CSS**
 - Software Test development using **Java**
 
 ## 👋 Reach out to me
