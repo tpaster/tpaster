@@ -4,7 +4,7 @@
 
 Hi, I'm Terra. I am a software engineer with a love of programming. 
 
-When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature 🌳, and reading 📕.
+When I am not coding, I enjoy meditating 🧘‍♀️, spending time in nature 🌳, and reading 📕.
 
 ## 🖥️ Projects
 * Habit-Tracker [Github](https://github.com/tpaster/habit-tracker)
