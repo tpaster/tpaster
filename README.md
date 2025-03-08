@@ -2,8 +2,7 @@
 
 <img align='right' src='https://github.com/tpaster/tpaster/blob/main/2025headshot6.jpeg?raw=true' width='150"'> 
 
-Hi, I'm Terra. I am a Master's student at ASU for Computer Science. Other than pursuing my degree I am an independent
-software engineer with a love of programming. 
+Hi, I'm Terra. I am a software engineer with a love of programming. 
 
 When I am not coding I enjoy meditating 🧘‍♀️, spending time in nature 🌳, and reading 📕.
 
